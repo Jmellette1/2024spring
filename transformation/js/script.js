@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $('#container').click(function(){
-        $(this).toggleClass('clicked');
+    $('#container, button').click(function(){
+        $('#container').toggleClass('clicked');
     });
 });

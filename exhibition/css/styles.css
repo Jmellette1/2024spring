@@ -2,14 +2,14 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0; /* Light gray background */
-    color: #333; /* Dark gray text */
+    background-color: #f0f0f0;
+    color: #333;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #007bff; /* Blue header background */
+    background-color: #007bff;
     color: white;
     padding: 20px;
     text-align: center;
@@ -20,36 +20,36 @@ main {
 }
 
 #curatorial-text {
-    background-color: #fff; /* White background */
+    background-color: #fff;
     padding: 20px;
     border-radius: 10px;
     margin-bottom: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 #artworks {
-    background-color: #fff; /* White background */
+    background-color: #fff;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 article {
-    border: 2px solid #007bff; /* Blue border for each artwork */
+    border: 2px solid #007bff;
     border-radius: 10px;
     padding: 20px;
     margin-bottom: 20px;
 }
 
 .artwork-visual {
-    border: 2px solid #007bff; /* Blue border for artwork visual */
+    border: 2px solid #007bff;
     border-radius: 10px;
-    height: 200px; /* Adjust as needed */
+    height: 200px;
     margin-bottom: 10px;
 }
 
 footer {
-    background-color: #007bff; /* Blue footer background */
+    background-color: #007bff;
     color: white;
     padding: 10px 0;
     text-align: center;
